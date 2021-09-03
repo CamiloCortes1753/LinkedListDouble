@@ -17,4 +17,4 @@ _Diseñar e implementar un programa en C++ que se aplique algoritmos para la ges
 
 _Diagrama de Clases con el Objeto Computer_
 
-![Diagramadeclases](/Diagrama de clases.png)
+![Diagramadeclases](imagen/Diagrama de clases.png)
